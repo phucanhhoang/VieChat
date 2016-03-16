@@ -1,9 +1,9 @@
 ###Hướng dẫn sử dụng git:
 ##1. Clone project về máy local:
-git clone https://github.com/phucanhhoang/IT4895.git
+git clone https://github.com/phucanhhoang/VieChat.git
 
 ##2. Setting remote:
-git remote add origin https://github.com/phucanhhoang/IT4895.git
+git remote add origin https://github.com/phucanhhoang/VieChat.git
 
 ##3. Pull code ve(update code tu git ve):
 
